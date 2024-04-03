@@ -1,4 +1,4 @@
-This is a REST API project using Postgresql
+This is a REST API project using Postgresql.
 
 # Getting Started
 
